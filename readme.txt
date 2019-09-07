@@ -11,3 +11,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes. update1
 update2
+
+test checkout dev1 add1
